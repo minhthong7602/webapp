@@ -1,0 +1,1 @@
+Webapp write by .Net Core 1.0.0 preview

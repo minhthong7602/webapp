@@ -212,6 +212,8 @@
 -resource:"E:\.Net Core\WepApp\src\WepApp\obj\Debug\netcoreapp1.0\WepAppdotnet-compile.deps.json",WepApp.deps.json
 "E:\.Net Core\WepApp\src\WepApp\Program.cs"
 "E:\.Net Core\WepApp\src\WepApp\Startup.cs"
+"E:\.Net Core\WepApp\src\WepApp\Controllers\AboutController.cs"
+"E:\.Net Core\WepApp\src\WepApp\Controllers\BookController.cs"
 "E:\.Net Core\WepApp\src\WepApp\Controllers\HomeController.cs"
 "E:\.Net Core\WepApp\src\WepApp\Controllers\PeopleController.cs"
 "E:\.Net Core\WepApp\src\WepApp\Infrastructure\DbFactory.cs"
